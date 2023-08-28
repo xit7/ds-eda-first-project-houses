@@ -13,11 +13,10 @@ The case is described in ["Case"](./assignment.md).
 ## Setup
 ### Requirements / Environment
 
-This repo contains a requirements.txt file with a list of all the packages and dependencies you will need. Before you install the virtual environment, make sure to install postgresql if you haven't done it before.
+This repo contains a requirements.txt file with a list of all the packages and dependencies you will need. Things to do:
 
 ```bash
 brew update
-brew install postgresql
 ```
 
 In order to install the environment you can use the following commands:
