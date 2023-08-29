@@ -5,7 +5,7 @@ The case is described in ["Case"](./assignment.md).
 
 * [This is the final presentation PDF](./files/kingcounty-cmk.pdf) for technical reference
 * [This is the final presentation Keynote](./files/kingcounty-cmk.key) for technical reference
-* [This is the notebook](./2_assignment-analysis.ipynb) for technical reference
+* [This is the notebook](./assignment-analysis.ipynb) for technical reference
 * [This the interactive map of affordable houses](./files/map_affordable.html)
 * [This the interactive map of affordable + Neighbours](./files/map_crowded.html)
 * [This the crowded heatmap](./files/map_crowded.html)
